@@ -1,6 +1,6 @@
 # Multi-Modal Content Retrieval System
 
-This project showcases a **multi-modal content-retrieval system** designed to retrieve relevant images based on a textual query. The system utilizes a two-tower neural network architecture, fine-tuning state-of-the-art Vision Transformer (ViT) and BERT models. The project includes a fully deployed web frontend and API backend, making it a comprehensive demonstration of end-to-end product development in the form of a simple prototype.
+This project showcases a **multi-modal content-retrieval system** designed to retrieve relevant images based on a textual query. The system utilizes a two-tower neural network architecture, fine-tuning state-of-the-art Vision Transformer (ViT) and BERT models. The project includes a fully deployed web frontend and API backend, making it a comprehensive demonstration of end-to-end product development in the form of a simple prototype. The project can be accessed here - https://search.oceans-end.com/
 
 ## Key Features
 
